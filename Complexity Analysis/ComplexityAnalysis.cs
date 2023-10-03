@@ -19,3 +19,7 @@ class Program
         }
     }
 }
+
+/// Ushbu kodning vaqt complexity si O(n), chunki ShowAllElements funksiya massivdagi har bir elementni bir marta chaqiradi. 
+/// Bu o'nlik vaqt complexity ni anglatadi. 
+/// Xotira complexity si esa o'nlik, chunki massivning o'lchami elementlar soniga bog'liq o'zgaradi.
